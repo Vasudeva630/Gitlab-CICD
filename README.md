@@ -11,5 +11,4 @@ This has 3 stages which are:
 3. For the code quality using soanrqube
      mvn sonar:sonar -Dsonar.host.url=${SONAR_HOST_URL} -Dsonar.login=${SONAR_LOGIN}
 
-![Gitlab1]("C:\Users\ASUS\Downloads\Gitlab1.png"
-"C:\Users\ASUS\Downloads\GitHubDesktopSetup-x64.exe"Gitlab1.png)
+![Gitlab1]("C:\Users\ASUS\Downloads\Gitlab1.png")
